@@ -1,0 +1,10 @@
+@media  (max-width:800px) {
+    .aboutabsoulutediv{
+        position: static !important;
+        top: 0;
+        right: 0;
+        margin-bottom: 15px;
+    }
+    
+   
+}
